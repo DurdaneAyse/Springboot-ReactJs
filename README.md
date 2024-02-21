@@ -9,7 +9,7 @@ Proje, öğrenci bilgilerini kaydetme, güncelleme, silme ve görüntüleme gibi
 
 ## Ekran Görüntüleri
 
-![Ana Sayfa](./images_projects/homeScreen.png)
+![Ana Sayfa](images_project/add-student-2.png)
 *Ana Sayfa: Projenin giriş sayfası.*
 
 ![Yeni Öğrenci Ekle](./images_projects/add_student.png)
