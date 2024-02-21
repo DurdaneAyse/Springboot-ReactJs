@@ -19,7 +19,7 @@ Proje, öğrenci bilgilerini kaydetme, güncelleme, silme ve görüntüleme gibi
 
 ![Yeni Öğrenci Ekle](images_project/add-student-2.png)
 
-*Yeni Öğrenci Ekle: Yeni öğrenci eklemek için kullanılan sayfad.*
+*Yeni Öğrenci Ekle: Yeni öğrenci eklemek için kullanılan sayfa.*
 
 ![Öğrenci Listesi](images_project/listScreen.png)
 *Öğrenci Listesi: Eklenilen bütün öğrencileri listelemek için kullanılan sayfa.*
